@@ -1,1 +1,1 @@
-# roblox-luau-samples
+Luau samples by LynchAlpha Studio
